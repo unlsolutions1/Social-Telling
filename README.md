@@ -1,5 +1,5 @@
 # Social-Telling
-<img src="https://unl.solutions/sites/default/files/2019-05/main_0.JPG>
+<img src="https://unl.solutions/sites/default/files/2019-05/main_0.JPG">
 
 A CRM web platform designed to collect information, operate with it and make reports.
 
